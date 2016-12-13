@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="at" value="export const $TYPE_NAME$ = '$TYPE_NAME$';" description="action types" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ats" value="export const $BASE_TYPE$_REQUEST = '$BASE_TYPE$_REQUEST';&#10;export const $BASE_TYPE$_SUCCESS = '$BASE_TYPE$_SUCCESS';&#10;export const $BASE_TYPE$_FAILURE = '$BASE_TYPE$_FAILURE';" description="action types for request" toReformat="false" toShortenFQNames="true">
+    <variable name="BASE_TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
