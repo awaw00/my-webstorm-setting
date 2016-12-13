@@ -37,11 +37,10 @@
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/projects/koa-react-starter/server/views/index.html" timestamp="1481547933007">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
         <mark key="[" line="2" column="0" />
@@ -279,11 +278,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481637519681">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481640678529">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/tutorials/react/02-modal/src/index.js" timestamp="1480596758375">
         <mark key="[" line="3" column="20" />
@@ -346,6 +344,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/services/cms.js" timestamp="1481640698738" />
       <file name="D:/projects/dva/dva-starter/client/models/view-config.js" timestamp="1476974220868">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="18" />
@@ -406,7 +405,7 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481638618745">
+      <file name="/Dummy.txt" timestamp="1481640826050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -429,7 +428,7 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481640408978">
+      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481640535233">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="20" />
@@ -594,7 +593,7 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/components/DevTools.js" timestamp="1481640193469">
+      <file name="D:/projects/qf-new-mobile/src/components/DevTools.js" timestamp="1481640597793">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="12" column="26" />
@@ -1082,10 +1081,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
@@ -1094,31 +1093,31 @@
         <text encoding="base64">aW1wb3J0IENtc0hQcm9kdWN0IGZyb20gJy4vcHJvZHVjdC9DbXNIUHJvZHVjdCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgRGV2VG9vbHMgPSByZXF1aXJlKCdjb21wb25lbnRzL0RldlRvb2xzJykuZGVmYXVsdDsKICAgICAgZW5oYW5jZXJzLnB1c2goRGV2VG9vbHMuaW5zdHJ1bWVudCgpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgRGV2VG9vbHMgPSByZXF1aXJlKCdjb21wb25lbnRzL0RldlRvb2xzJykuZGVmYXVsdDsKICAgICAgZW5oYW5jZXJzLnB1c2goRGV2VG9vbHMuaW5zdHJ1bWVudCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBOb3RlOiBEb2NrTW9uaXRvciBpcyB2aXNpYmxlIGJ5IGRlZmF1bHQuCg==</text>
+        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBIZXJlLCB3ZSBwdXQgTG9nTW9uaXRvciBpbnNpZGUgYSBEb2NrTW9uaXRvci4K</text>
+        <text encoding="base64">ICAvLyBOb3RlOiBEb2NrTW9uaXRvciBpcyB2aXNpYmxlIGJ5IGRlZmF1bHQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBDb25zdWx0IHRoZWlyIHJlcG9zaXRvcmllcyB0byBsZWFybiBhYm91dCB0aG9zZSBwcm9wcy4K</text>
+        <text encoding="base64">ICAvLyBIZXJlLCB3ZSBwdXQgTG9nTW9uaXRvciBpbnNpZGUgYSBEb2NrTW9uaXRvci4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBNb25pdG9ycyBhcmUgaW5kaXZpZHVhbGx5IGFkanVzdGFibGUgd2l0aCBwcm9wcy4K</text>
+        <text encoding="base64">ICAvLyBDb25zdWx0IHRoZWlyIHJlcG9zaXRvcmllcyB0byBsZWFybiBhYm91dCB0aG9zZSBwcm9wcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY3JlYXRlRGV2VG9vbHMgdGFrZXMgYSBtb25pdG9yIGFuZCBwcm9kdWNlcyBhIERldlRvb2xzIGNvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAvLyBNb25pdG9ycyBhcmUgaW5kaXZpZHVhbGx5IGFkanVzdGFibGUgd2l0aCBwcm9wcy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
