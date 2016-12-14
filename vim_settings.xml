@@ -65,11 +65,6 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-      </file>
       <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -406,6 +401,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/services/cms.js" timestamp="1481717979092" />
       <file name="D:/projects/dva/dva-starter/client/models/view-config.js" timestamp="1476974220868">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="18" />
@@ -936,6 +932,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/sagas/cms.js" timestamp="1481718278020" />
       <file name="D:/Projects/qf-new-mobile/src/reducers/cms.js" timestamp="1481708793863">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="15" column="0" />
