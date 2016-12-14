@@ -491,6 +491,9 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481718875013">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="D:/projects/dva/dva-starter/client/models/authInfo.js" timestamp="1477131285717">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="18" />
@@ -721,6 +724,7 @@
         <mark key="^" line="26" column="37" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="D:/projects/redux-saga/examples/real-world/routes.js" timestamp="1481718983340" />
       <file name="D:/projects/dva/dva-starter/client/models/global.js" timestamp="1478535313209">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="24" />
@@ -803,6 +807,7 @@
         <mark key="^" line="37" column="35" />
         <mark key="." line="37" column="35" />
       </file>
+      <file name="D:/projects/redux-saga/examples/real-world/server.js" timestamp="1481719004340" />
       <file name="D:/projects/dva/demo/src/routes/IndexPage.js" timestamp="1476286253805">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="33" />
@@ -932,7 +937,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/sagas/cms.js" timestamp="1481718278020" />
+      <file name="D:/projects/qf-new-mobile/src/sagas/cms.js" timestamp="1481718690763">
+        <mark key="'" line="29" column="6" />
+      </file>
       <file name="D:/Projects/qf-new-mobile/src/reducers/cms.js" timestamp="1481708793863">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="15" column="0" />
@@ -1108,7 +1115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/getFieldComponent.js" />
       <jump line="105" column="45" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/getFieldComponent.js" />
       <jump line="68" column="17" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/getFieldComponent.js" />
       <jump line="16" column="54" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/ArrayFieldWrapper.js" />
@@ -1208,6 +1214,7 @@
       <jump line="19" column="32" filename="D:/Projects/qf-new-mobile/src/styles/components/product.less" />
       <jump line="139" column="0" filename="D:/Projects/qf-new-mobile/src/styles/components/product.less" />
       <jump line="21" column="31" filename="D:/Projects/qf-new-mobile/src/styles/components/product.less" />
+      <jump line="29" column="6" filename="D:/projects/qf-new-mobile/src/sagas/cms.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
