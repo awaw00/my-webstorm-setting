@@ -467,8 +467,8 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/sagas/cms.js" timestamp="1481700196647">
-        <mark key="'" line="38" column="4" />
+      <file name="D:/Projects/qf-new-mobile/src/sagas/cms.js" timestamp="1481700658579">
+        <mark key="'" line="79" column="0" />
         <mark key="[" line="70" column="9" />
         <mark key="]" line="70" column="11" />
         <mark key="." line="70" column="11" />
@@ -1062,9 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/index.js" />
-      <jump line="70" column="26" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/EditorForm.js" />
-      <jump line="90" column="39" filename="D:/projects/dva/dva-starter/client/models/editorPage.js" />
       <jump line="82" column="39" filename="D:/projects/dva/dva-starter/client/models/page.js" />
       <jump line="66" column="40" filename="D:/projects/dva/dva-starter/client/models/editorPage.js" />
       <jump line="141" column="18" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/index.js" />
@@ -1162,6 +1159,9 @@
       <jump line="37" column="4" filename="D:/Projects/qf-new-mobile/src/sagas/cms.js" />
       <jump line="53" column="7" filename="D:/Projects/qf-new-mobile/src/components/cms/CmsRenderer.js" />
       <jump line="0" column="0" filename="D:/Projects/qf-new-mobile/src/components/cms/CmsRenderer.js" />
+      <jump line="62" column="13" filename="D:/Projects/qf-new-mobile/src/sagas/cms.js" />
+      <jump line="0" column="0" filename="D:/Projects/qf-new-mobile/src/sagas/cms.js" />
+      <jump line="79" column="0" filename="D:/Projects/qf-new-mobile/src/sagas/cms.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
