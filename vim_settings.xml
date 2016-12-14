@@ -24,6 +24,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/Projects/qf-new-mobile/src/store/createStore.js" timestamp="1481691547478" />
       <file name="D:/projects/qf-new-mobile/src/components/ProductList.js" timestamp="1481465633055">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="27" />
@@ -261,7 +262,7 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="16" />
       </file>
-      <file name="D:/Projects/redux-saga/examples/real-world/store/configureStore.prod.js" timestamp="1481687916930" />
+      <file name="D:/Projects/redux-saga/examples/real-world/store/configureStore.prod.js" timestamp="1481691767839" />
       <file name="D:/Projects/qf-new-mobile/src/router.js" timestamp="1481687864829">
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="20" />
@@ -354,7 +355,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
-      <file name="D:/Projects/redux-saga/examples/real-world/sagas/index.js" timestamp="1481687970234" />
+      <file name="D:/Projects/redux-saga/examples/real-world/sagas/index.js" timestamp="1481691803114" />
       <file name="D:/tutorials/react/0-test1/src/App.js" timestamp="1480422630152">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="28" />
@@ -731,6 +732,12 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="D:/Projects/qf-new-mobile/src/reducers/cms.js" timestamp="1481691636226">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="34" />
+        <mark key="." line="55" column="34" />
+        <mark key="^" line="55" column="34" />
+      </file>
       <file name="D:/projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/views/cms/cms.vue" timestamp="1481374048361">
         <mark key="[" line="115" column="30" />
         <mark key="]" line="115" column="29" />
@@ -1098,11 +1105,11 @@
       <jump line="25" column="0" filename="D:/projects/qf-new-mobile/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>PRELOAD_IDS</text>
       </register>
       <register name="-" type="4">
-        <text>put, call, take, takeEvery, fork</text>
+        <text>PRELOAD_IDS</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
