@@ -9,6 +9,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1481687922954">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/projects/dva/dva-starter/.babelrc" timestamp="1478176253261">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="22" />
@@ -258,6 +261,13 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="16" />
       </file>
+      <file name="D:/Projects/redux-saga/examples/real-world/store/configureStore.prod.js" timestamp="1481687916930" />
+      <file name="D:/Projects/qf-new-mobile/src/router.js" timestamp="1481687864829">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+      </file>
       <file name="D:/projects/dva/dva-starter/client/index.html" timestamp="1476543096814">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="4" column="83" />
@@ -344,6 +354,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="D:/Projects/redux-saga/examples/real-world/sagas/index.js" timestamp="1481687970234" />
       <file name="D:/tutorials/react/0-test1/src/App.js" timestamp="1480422630152">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="28" />
@@ -557,6 +568,7 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="D:/Projects/redux-saga/examples/real-world/server.js" timestamp="1481687942794" />
       <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481640678529">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -687,6 +699,7 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
+      <file name="D:/Projects/redux-saga/examples/real-world/index.js" timestamp="1481687955947" />
       <file name="D:/Projects/redux-saga/examples/real-world/store/configureStore.dev.js" timestamp="1481684830860" />
       <file name="D:/projects/dva/dva-starter/client/styles/manager-page.less" timestamp="1478875092924">
         <mark key="[" line="1" column="2" />
@@ -932,7 +945,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481685997705" />
+      <file name="D:/Projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481686827555" />
       <file name="D:/projects/dva/dva-starter/bin/compile.js" timestamp="1476582512279">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="4" />
@@ -1085,11 +1098,11 @@
       <jump line="25" column="0" filename="D:/projects/qf-new-mobile/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>put, call, take, takeEvery, fork</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
@@ -1098,31 +1111,31 @@
         <text encoding="base64">aW1wb3J0IENtc0hQcm9kdWN0IGZyb20gJy4vcHJvZHVjdC9DbXNIUHJvZHVjdCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgRGV2VG9vbHMgPSByZXF1aXJlKCdjb21wb25lbnRzL0RldlRvb2xzJykuZGVmYXVsdDsKICAgICAgZW5oYW5jZXJzLnB1c2goRGV2VG9vbHMuaW5zdHJ1bWVudCgpKTsK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgIHN0b3JlCiAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdG9yZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBOb3RlOiBEb2NrTW9uaXRvciBpcyB2aXNpYmxlIGJ5IGRlZmF1bHQuCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgRGV2VG9vbHMgPSByZXF1aXJlKCdjb21wb25lbnRzL0RldlRvb2xzJykuZGVmYXVsdDsKICAgICAgZW5oYW5jZXJzLnB1c2goRGV2VG9vbHMuaW5zdHJ1bWVudCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBIZXJlLCB3ZSBwdXQgTG9nTW9uaXRvciBpbnNpZGUgYSBEb2NrTW9uaXRvci4K</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBDb25zdWx0IHRoZWlyIHJlcG9zaXRvcmllcyB0byBsZWFybiBhYm91dCB0aG9zZSBwcm9wcy4K</text>
+        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBNb25pdG9ycyBhcmUgaW5kaXZpZHVhbGx5IGFkanVzdGFibGUgd2l0aCBwcm9wcy4K</text>
+        <text encoding="base64">ICAgICAgZW5oYW5jZXJzLnB1c2goZGV2VG9vbHNFeHRlbnNpb24oKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
