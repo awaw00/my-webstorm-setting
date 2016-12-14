@@ -65,6 +65,11 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+      </file>
       <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -346,6 +351,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481720868839">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="18" />
+      </file>
       <file name="D:/tutorials/react/02-modal/src/index.js" timestamp="1480596758375">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="20" />
@@ -576,6 +585,11 @@
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="27" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/createRoutes.js" timestamp="1481720901323">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="53" />
+        <mark key="." line="7" column="53" />
       </file>
       <file name="D:/projects/dva/dva-starter/client/utils/request.js" timestamp="1477718383027">
         <mark key="[" line="18" column="29" />
@@ -1218,43 +1232,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height</text>
+        <text>cmsInit</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>cmsInit</text>
       </register>
       <register name="/" type="4">
         <text>static</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Ly8gUG9seWZpbGxzCi8vIGltcG9ydCAnaXNvbW9ycGhpYy1mZXRjaCc7CmltcG9ydCAnd2hhdHdnLWZldGNoJzsKCmltcG9ydCB7IGZyb21KUyB9IGZyb20gJ2ltbXV0YWJsZSc7CmltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7CmltcG9ydCB7IHJlbmRlciB9IGZyb20gJ3JlYWN0LWRvbSc7CmltcG9ydCBBcHAgZnJvbSAnLi9BcHAnOwppbXBvcnQgY3JlYXRlU3RvcmUgZnJvbSAnc3RvcmUvY3JlYXRlU3RvcmUnOwppbXBvcnQgc2FnYXMgZnJvbSAnc2FnYXMnOwoKaW1wb3J0ICdzdHlsZXMvaW5kZXgubGVzcyc7CgpsZXQgcm9vdCA9IG51bGw7Cgpjb25zdCBzdG9yZSA9IGNyZWF0ZVN0b3JlKGZyb21KUyh3aW5kb3cuX19JTklUSUFMX1NUQVRFX18gfHwge30pKTsKCi8vIHJ1biBkZWZhdWx0IHNhZ2FzCnNhZ2FzLmZvckVhY2goc2FnYSA9PiBzdG9yZS5ydW5TYWdhKHNhZ2EpKTsKCmNvbnN0IG1vdW50Tm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290Jyk7CgpmdW5jdGlvbiBib290c3RyYXAgKEFwcCkgewogIHJlbmRlcig8QXBwIHN0b3JlPXtzdG9yZX0vPiwgbW91bnROb2RlKTsKfQoKaWYgKF9fREVWX18gJiYgd2luZG93ICYmIG1vZHVsZS5ob3QpIHsKICBjb25zdCBkZXZUb29sRWwgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGRldlRvb2xFbCk7CiAgY29uc3QgRGV2VG9vbHMgPSByZXF1aXJlKCdjb21wb25lbnRzL0RldlRvb2xzJykuZGVmYXVsdDsKICByZW5kZXIoPERldlRvb2xzIHN0b3JlPXtzdG9yZX0vPiwgZGV2VG9vbEVsKTsKCiAgY29uc3QgX2Jvb3QgPSBib290c3RyYXA7CiAgYm9vdHN0cmFwID0gZnVuY3Rpb24gKEFwcCkgewogICAgdHJ5IHsKICAgICAgX2Jvb3QoQXBwKTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgY29uc29sZS5lcnJvcihlKTsKICAgICAgY29uc3QgUmVkYm94ID0gcmVxdWlyZSgncmVkYm94LXJlYWN0JykuZGVmYXVsdDsKICAgICAgcmVuZGVyKDxSZWRib3ggZXJyb3I9e2V9Lz4sIG1vdW50Tm9kZSk7CiAgICB9CiAgfTsKCiAgbW9kdWxlLmhvdC5hY2NlcHQoJy4vQXBwJywgKCkgPT4gewogICAgYm9vdHN0cmFwKHJlcXVpcmUoJy4vQXBwJykuZGVmYXVsdCk7CiAgfSk7Cn0KCmJvb3RzdHJhcChBcHApOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPScvJyBjb21wb25lbnQ9e0hvbWVMYXlvdXR9PgogICAgICAgICAgICA8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e0Ntc1JlbmRlcmVyfSBvbkVudGVyPXt0aGlzLmNtc0luaXR9Lz4KICAgICAgICAgIDwvUm91dGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImNtcy10YWItaG9sZGVyIj48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImNtcy10YWItaG9sZGVyIj48L2Rpdj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzd2l0Y2ggKHR5cGUpIHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGhhc1RhYiAoc3RhdGUgPSBmYWxzZSwge3R5cGV9KSB7Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
