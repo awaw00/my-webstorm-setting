@@ -65,21 +65,16 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-      </file>
       <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/store/createStore.js" timestamp="1481640376992">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="9" column="30" />
+      <file name="D:/projects/qf-new-mobile/src/store/createStore.js" timestamp="1481722159769">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
       </file>
       <file name="D:/projects/dva/dva-starter/client/models/login.js" timestamp="1479569352117">
         <mark key="[" line="1" column="41" />
@@ -351,9 +346,11 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481720868839">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="25" column="18" />
+      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481722272732">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="D:/tutorials/react/02-modal/src/index.js" timestamp="1480596758375">
         <mark key="[" line="3" column="20" />
@@ -500,8 +497,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481718875013">
+      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481722191451">
         <mark key="'" line="4" column="0" />
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="76" />
+        <mark key="^" line="17" column="76" />
+        <mark key="." line="17" column="76" />
       </file>
       <file name="D:/projects/dva/dva-starter/client/models/authInfo.js" timestamp="1477131285717">
         <mark key="[" line="3" column="18" />
@@ -586,10 +587,11 @@
         <mark key="." line="24" column="28" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/createRoutes.js" timestamp="1481720901323">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
+      <file name="D:/projects/qf-new-mobile/src/createRoutes.js" timestamp="1481721825013">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="52" />
       </file>
       <file name="D:/projects/dva/dva-starter/client/utils/request.js" timestamp="1477718383027">
         <mark key="[" line="18" column="29" />
@@ -683,6 +685,9 @@
         <mark key="]" line="2" column="37" />
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/node_modules/react-router-redux/lib/index.js" timestamp="1481722106977">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/tutorials/react/01-color-ball-moving/src/App.js" timestamp="1480600388141">
         <mark key="[" line="12" column="28" />
@@ -1129,7 +1134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="45" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/getFieldComponent.js" />
       <jump line="68" column="17" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/getFieldComponent.js" />
       <jump line="16" column="54" filename="D:/projects/dva/dva-starter/client/components/Pages/EditorPage/ArrayFieldWrapper.js" />
       <jump line="30" column="28" filename="D:/tutorials/react/01-color-ball-manager/src/App.js" />
@@ -1229,55 +1233,56 @@
       <jump line="139" column="0" filename="D:/Projects/qf-new-mobile/src/styles/components/product.less" />
       <jump line="21" column="31" filename="D:/Projects/qf-new-mobile/src/styles/components/product.less" />
       <jump line="29" column="6" filename="D:/projects/qf-new-mobile/src/sagas/cms.js" />
+      <jump line="0" column="0" filename="D:/projects/qf-new-mobile/node_modules/react-router-redux/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cmsInit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByb3V0ZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>cmsInit</text>
+        <text encoding="base64">UHVyZUNvbXBvbmVudCA=</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>routerMiddleware</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPScvJyBjb21wb25lbnQ9e0hvbWVMYXlvdXR9PgogICAgICAgICAgICA8SW5kZXhSb3V0ZSBjb21wb25lbnQ9e0Ntc1JlbmRlcmVyfSBvbkVudGVyPXt0aGlzLmNtc0luaXR9Lz4KICAgICAgICAgIDwvUm91dGU+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhvbWVMYXlvdXQgZnJvbSAnbGF5b3V0cy9Ib21lTGF5b3V0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByb3V0ZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJpbmQgZnJvbSAnYXV0b2JpbmQtZGVjb3JhdG9yJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PFJvdXRlciBoaXN0b3J5PXtoaXN0b3J5fT4KICAgICAgICA8Um91dGUgcGF0aD0nLycgY29tcG9uZW50PXtIb21lTGF5b3V0fT4KICAgICAgICAgIDxJbmRleFJvdXRlIGNvbXBvbmVudD17Q21zUmVuZGVyZXJ9IG9uRW50ZXI9e3RoaXMuY21zSW5pdH0vPgogICAgICAgIDwvUm91dGU+CiAgICAgIDwvUm91dGVyPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzc05hbWU9ImNtcy10YWItaG9sZGVyIj48L2Rpdj4K</text>
+        <text encoding="base64">ICBjb25zdCB7c3RvcmUsIGhpc3Rvcnl9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">ewogIGNtc0luaXQgKHtsb2NhdGlvbn0pIHsKICAgIHRoaXMucHJvcHMuc3RvcmUuZGlzcGF0Y2goewogICAgICB0eXBlOiB0eXBlcy5DTVNfSU5JVF9TVEFSVCwKICAgICAgcGF5bG9hZDoge2xvY2F0aW9ufQogICAgfSk7CiAgfQoKICByZW5kZXIgKCkg</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGJpbmQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyLCBSb3V0ZSwgSW5kZXhSb3V0ZSB9IGZyb20gJ3JlYWN0LXJvdXRlcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>routerMiddleware</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>routerMiddleware</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1302,6 +1307,7 @@
         <entry>1</entry>
         <entry>size</entry>
         <entry>static</entry>
+        <entry>routerMiddleware</entry>
       </history-search>
       <history-cmd>
         <entry>save</entry>
