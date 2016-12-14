@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="111" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
