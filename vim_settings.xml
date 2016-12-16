@@ -3,28 +3,107 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1481860064045">
+      <file name="/fragment.js" timestamp="1481865015824">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1481873136177">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/dva-koa-starter/client/router.js" timestamp="1478443688370">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/projects/dva/dva-starter/server/middleware/role.js" timestamp="1477760624614">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/utils/el-watcher.js" timestamp="1481769898215">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/utils/request.js" timestamp="1481865173359">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/components/checkbox.vue" timestamp="1481869789140">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+      </file>
+      <file name="D:/projects/preact-mobx-starter/build/dev-client.js" timestamp="1480829453441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/projects/preact-mobx-starter/src/routes/index/about/About.js" timestamp="1480848035247">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481640678529">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/projects/mock-server/src/mock/product.js" timestamp="1481203930956">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="28" column="16" />
         <mark key="." line="28" column="16" />
+      </file>
+      <file name="D:/tutorials/react/02-modal/src/App.css" timestamp="1480598671486">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/projects/dva-koa-starter/package.json" timestamp="1478446423132">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="D:/projects/dva/dva-starter/package.json" timestamp="1477808519174">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
+      </file>
+      <file name="D:/tutorials/react/01-color-ball-manager/package.json" timestamp="1480512528905">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481727228339">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
+      </file>
+      <file name="D:/projects/dva/dva-starter/client/components/ArticleList.js" timestamp="1478879606525">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="2" column="17" />
+      </file>
+      <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/controller/article-manage.js" timestamp="1481872507107">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/universal/components/cms/CmsProduct.js" timestamp="1481790120127">
         <mark key="[" line="24" column="0" />
@@ -41,86 +120,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/app.js" timestamp="1481872371885">
+        <mark key="[" line="230" column="11" />
+        <mark key="]" line="230" column="11" />
+        <mark key="^" line="230" column="11" />
+        <mark key="." line="230" column="11" />
+      </file>
       <file name="D:/Projects/qf-mobile-yx/app/src/components/checkbox.vue" timestamp="1481869738663">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="65" />
         <mark key="^" line="3" column="65" />
         <mark key="." line="3" column="65" />
       </file>
-      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/views/productInfo/proDetail.vue" timestamp="1481861314190">
-        <mark key="'" line="67" column="12" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/controller/trade-list.js" timestamp="1481870573614" />
-      <file name="D:/projects/dva-koa-starter/client/router.js" timestamp="1478443688370">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/utils/el-watcher.js" timestamp="1481769898215">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="4" />
-      </file>
-      <file name="D:/projects/preact-mobx-starter/build/dev-client.js" timestamp="1480829453441">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/App.js" timestamp="1481640678529">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481727228339">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="4" />
-      </file>
-      <file name="D:/Projects/qf-mobile-yx/app/src/views/trade/carts.vue" timestamp="1481869566127">
-        <mark key="'" line="36" column="31" />
-        <mark key="[" line="397" column="16" />
-        <mark key="]" line="413" column="14" />
-        <mark key="." line="413" column="14" />
-        <mark key="^" line="413" column="14" />
-      </file>
-      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/views/trade/carts.vue" timestamp="1481869265528">
-        <mark key="'" line="392" column="33" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="37" />
-        <mark key="^" line="370" column="35" />
-        <mark key="." line="424" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1481871306834">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/tutorials/react/03-data-request/src/components/Detail.js" timestamp="1480865627503">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/Projects/qf-seller/qf-seller-frontend/qf-seller-web/src/main/webapp/_resources/js/controller/trade-list.js" timestamp="1481870639566" />
-      <file name="D:/tutorials/react/02-modal/src/App.css" timestamp="1480598671486">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/cms.js" timestamp="1481865419825" />
-      <file name="D:/projects/dva-koa-starter/package.json" timestamp="1478446423132">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-      </file>
-      <file name="D:/tutorials/react/01-color-ball-manager/package.json" timestamp="1480512528905">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/Projects/qf-new-mobile/src/universal/components/cms/CmsRenderer.js" timestamp="1481871734480">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/Projects/qf-new-mobile/webpack/webpack.config.client.js" timestamp="1481871099307">
         <mark key="'" line="144" column="13" />
@@ -136,85 +151,93 @@
         <mark key="." line="35" column="60" />
         <mark key="^" line="35" column="60" />
       </file>
+      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/views/productInfo/proDetail.vue" timestamp="1481861314190">
+        <mark key="'" line="67" column="12" />
+      </file>
       <file name="D:/Projects/qf-new-mobile/.gitignore" timestamp="1481864867976">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" timestamp="1481776703532">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/WEB-INF/views/promotion/coupon-detail.html" timestamp="1481872894442">
+        <mark key="[" line="229" column="98" />
+        <mark key="]" line="229" column="102" />
+        <mark key="." line="229" column="102" />
+        <mark key="^" line="229" column="102" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/server/global.js" timestamp="1481793721133">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="D:/Projects/qf-mobile-yx/app/src/less/carts.less" timestamp="1481869645005">
+        <mark key="'" line="10" column="16" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1481873271899">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projects/qf-mobile-yx/app/src/views/trade/carts.vue" timestamp="1481869566127">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="397" column="16" />
+        <mark key="]" line="413" column="14" />
+        <mark key="." line="413" column="14" />
+        <mark key="^" line="413" column="14" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/server/app.js" timestamp="1481873268441">
+        <mark key="[" line="90" column="24" />
+        <mark key="]" line="91" column="12" />
+        <mark key="^" line="91" column="12" />
+        <mark key="." line="91" column="12" />
+      </file>
+      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/views/trade/carts.vue" timestamp="1481869265528">
+        <mark key="'" line="392" column="33" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="424" column="37" />
+        <mark key="^" line="370" column="35" />
+        <mark key="." line="424" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481872987093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/projects/koa-react-starter/server/main.js" timestamp="1481549414855">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/server/middleware/invariant.js" timestamp="1477718341128">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/components/countSelector.vue" timestamp="1481870346604" />
-      <file name="D:/projects/qf-new-mobile/src/server/views/index.html" timestamp="1481731751846">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/fragment.js" timestamp="1481865015824">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/server/middleware/role.js" timestamp="1477760624614">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/utils/request.js" timestamp="1481865173359">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="2" column="15" />
-      </file>
-      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/components/checkbox.vue" timestamp="1481869789140">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="31" column="13" />
-        <mark key="." line="31" column="13" />
-      </file>
-      <file name="D:/projects/mock-server/src/mock/product.js" timestamp="1481203930956">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/client/components/ArticleList.js" timestamp="1478879606525">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/config.js" timestamp="1481852982356" />
-      <file name="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" timestamp="1481776703532">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
-      <file name="D:/Projects/qf-mobile-yx/app/src/less/carts.less" timestamp="1481869645005">
-        <mark key="'" line="10" column="16" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1481865573582">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/dva/dva-starter/client/styles/filter.less" timestamp="1479630312792">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="3" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Projects/qf-mobile-yx/app/src/components/countSelector.vue" timestamp="1481870505405" />
       <file name="D:/tutorials/react/00-rainbow/public/index.html" timestamp="1480425429411">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/projects/dva/dva-starter/server/middleware/invariant.js" timestamp="1477718341128">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="D:/tutorials/react/03-data-request/src/components/Detail.js" timestamp="1480865627503">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/filter/filter.js" timestamp="1481872799803">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/server/index.js" timestamp="1481865023864">
         <mark key="'" line="67" column="24" />
@@ -228,9 +251,14 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="D:/Projects/qf-seller/qf-seller-frontend/qf-seller-web/src/main/webapp/_resources/js/controller/trade-list.js" timestamp="1481871851549" />
+      <file name="D:/projects/qf-new-mobile/src/server/views/index.html" timestamp="1481731751846">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="7" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/projects/qf-new-mobile/src/styles/components/cms-tab.less" />
       <jump line="3" column="1" filename="D:/projects/qf-new-mobile/src/styles/components/cms-tab.less" />
       <jump line="11" column="30" filename="D:/projects/mock-server/src/mock/product.js" />
       <jump line="4" column="40" filename="D:/projects/qf-new-mobile/src/components/cms/product/CmsHProductItem.js" />
@@ -330,61 +358,61 @@
       <jump line="10" column="16" filename="D:/Projects/qf-mobile-yx/app/src/less/carts.less" />
       <jump line="102" column="30" filename="D:/Projects/qf-mobile/qf-product-mobile/src/main/webapp/html/app/src/components/countSelector.vue" />
       <jump line="130" column="43" filename="D:/Projects/qf-mobile-yx/app/src/components/countSelector.vue" />
+      <jump line="12" column="0" filename="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/filter/filter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>checkbox-pos</text>
+        <text>showPrice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoYXQubG9hZGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">udjBqsnMxrcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbXMgaW5pdCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMSk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDEwMCUgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMS4wNSk7Cg==</text>
+        <text encoding="base64">ICAgIDEwMCUgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEuMDUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcGFjaXR5Oi44Owo=</text>
+        <text encoding="base64">ICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMS4wNSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkbox-pos</last-search>
+      <last-search>showPrice</last-search>
       <last-offset />
-      <last-pattern>checkbox-pos</last-pattern>
+      <last-pattern>showPrice</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>src</entry>
         <entry>port</entry>
         <entry>plugins</entry>
         <entry>image</entry>
@@ -404,6 +432,7 @@
         <entry>size</entry>
         <entry>static</entry>
         <entry>checkbox-pos</entry>
+        <entry>showPrice</entry>
       </history-search>
       <history-cmd>
         <entry>save</entry>
