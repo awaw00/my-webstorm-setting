@@ -98,12 +98,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/user.js" timestamp="1481878178436">
+      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/user.js" timestamp="1481878312600">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="21" />
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="25" column="3" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/universal/services/uc.js" timestamp="1481877677113">
         <mark key="[" line="8" column="26" />
@@ -147,11 +147,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/containers/createAuthContainer.js" timestamp="1481877519851">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/Projects/qf-new-mobile/src/universal/containers/createAuthContainer.js" timestamp="1481878742536">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
       <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/_resources/js/app.js" timestamp="1481872371885">
         <mark key="[" line="230" column="11" />
@@ -171,6 +171,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="36" column="23" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/index.js" timestamp="1481878345365">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/universal/constants/api.js" timestamp="1481874848291">
         <mark key="[" line="15" column="32" />
@@ -197,6 +203,12 @@
         <mark key="]" line="2" column="3" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" timestamp="1481878724831">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+      </file>
       <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -212,6 +224,12 @@
         <mark key="]" line="229" column="102" />
         <mark key="." line="229" column="102" />
         <mark key="^" line="229" column="102" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/universal/actions/uc.js" timestamp="1481878797951">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
       </file>
       <file name="D:/Projects/qf-new-mobile/src/server/global.js" timestamp="1481793721133">
         <mark key="[" line="4" column="0" />
@@ -408,11 +426,11 @@
       <jump line="5" column="20" filename="D:/Projects/qf-new-mobile/src/universal/sagas/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ucLifeCircle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvcmsoYXV0aEZhaWx1cmUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ucLifeCircle</text>
+        <text>lifeCircle</text>
       </register>
       <register name="/" type="4">
         <text>showPrice</text>
@@ -421,31 +439,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoYXQubG9hZGluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7fSkK</text>
+        <text encoding="base64">ICAgIGZvcmsoYXV0aEZhaWx1cmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">udjBqsnMxrcK</text>
+        <text encoding="base64">ICAgIGZvcmsodWMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbXMgaW5pdCcpOwo=</text>
+        <text encoding="base64">ICAgIHJkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGF0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCAgPSAnJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogc2NhbGUoMSk7Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7fSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2Zvcm06IHNjYWxlKDEpOwo=</text>
+        <text encoding="base64">udjBqsnMxrcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDEwMCUgewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbXMgaW5pdCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
