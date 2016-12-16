@@ -1,0 +1,14 @@
+<templateSet group="redux">
+  <template name="at" value="export const $ACTION_TYPE$ = '$ACTION_TYPE$';" description="action type" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTION_TYPE" expression="" defaultValue="'ACTION_TYPE'" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ats" value="export const $ACTION_TYPE$_REQUEST = '$ACTION_TYPE$_REQUEST';&#10;export const $ACTION_TYPE$_SUCCESS = '$ACTION_TYPE$_SUCCESS';&#10;export const $ACTION_TYPE$_FAILURE = '$ACTION_TYPE$_FAILURE'; " description="action types" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTION_TYPE" expression="" defaultValue="'ACTION_TYPE_PREFIX'" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
