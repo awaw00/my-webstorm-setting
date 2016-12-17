@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/projects/qf-new-mobile/src/server/pageScripts.js" timestamp="1481731528251">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="D:/Projects/qf-new-mobile/src/utils/history.js" timestamp="1481705613866">
         <mark key="'" line="26" column="1" />
         <mark key="[" line="4" column="28" />
@@ -10,122 +17,14 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/actions/cms.js" timestamp="1481726726100">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-      </file>
-      <file name="D:/projects/universal-hmr-ssr-react-redux/src/server/server.js" timestamp="1481730430350">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="D:/projects/preact-mobx-starter/src/routes/index/about/About.js" timestamp="1480848035247">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
-      </file>
-      <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/package.json" timestamp="1477808519174">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="D:/projects/universal-hmr-ssr-react-redux/src/server/server.babel.js" timestamp="1481729193723" />
-      <file name="D:/Projects/qf-new-mobile/src/App.js" timestamp="1481708557346">
-        <mark key="'" line="11" column="1" />
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/server/routes/api_mock/index.js" timestamp="1481730659899" />
-      <file name="D:/projects/qf-new-mobile/src/server/index.js" timestamp="1481730948211">
-        <mark key="'" line="75" column="3" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="11" column="13" />
-      </file>
       <file name="D:/projects/dva-koa-starter/client/router.js" timestamp="1478443688370">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/projects/qf-new-mobile/webpack.config.babel.js" timestamp="1481732440378">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="154" column="14" />
-        <mark key="]" line="154" column="15" />
-        <mark key="." line="154" column="15" />
-        <mark key="^" line="154" column="15" />
-      </file>
-      <file name="D:/projects/preact-mobx-starter/build/dev-client.js" timestamp="1480829453441">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/projects/universal-hmr-ssr-react-redux/webpack/webpack.config.server.js" timestamp="1481729107348" />
-      <file name="D:/projects/qf-new-mobile/src/store/reducers/cms.js" timestamp="1481637933186">
-        <mark key="'" line="15" column="36" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481727228339">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="4" />
-        <mark key="." line="54" column="4" />
-      </file>
-      <file name="D:/projects/redux-saga/examples/real-world/store/configureStore.prod.js" timestamp="1481722698612" />
-      <file name="D:/projects/qf-new-mobile/src/services/cms.js" timestamp="1481726898778">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
-      <file name="D:/projects/universal-hmr-ssr-react-redux/package.json" timestamp="1481731119652">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/client/App.js" timestamp="1481730215531" />
-      <file name="D:/projects/universal-hmr-ssr-react-redux/src/server/ssr.js" timestamp="1481731041227" />
-      <file name="D:/projects/universal-hmr-ssr-react-redux/src/universal/modules/counter/components/Counter/Counter.js" timestamp="1481731389971">
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="36" column="48" />
-        <mark key="^" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1481732466488">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481729465123">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="D:/tutorials/react/03-data-request/src/components/Detail.js" timestamp="1480865627503">
+      <file name="D:/projects/dva/dva-starter/server/middleware/role.js" timestamp="1477760624614">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="33" />
+        <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="D:/projects/qf-new-mobile/src/createRoutes.js" timestamp="1481724998723">
@@ -140,6 +39,32 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="D:/projects/qf-new-mobile/src/actions/cms.js" timestamp="1481726726100">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="D:/projects/universal-hmr-ssr-react-redux/src/server/server.js" timestamp="1481730430350">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/webpack.config.babel.js" timestamp="1481732440378">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="154" column="14" />
+        <mark key="]" line="154" column="15" />
+        <mark key="." line="154" column="15" />
+        <mark key="^" line="154" column="15" />
+      </file>
+      <file name="D:/projects/preact-mobx-starter/build/dev-client.js" timestamp="1480829453441">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/preact-mobx-starter/src/routes/index/about/About.js" timestamp="1480848035247">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/projects/qf-new-mobile/src/components/ProductItem.js" timestamp="1481726819813">
         <mark key="'" line="26" column="25" />
         <mark key="[" line="2" column="51" />
@@ -147,72 +72,64 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="D:/projects/redux-saga/examples/real-world/containers/Root.dev.js" timestamp="1481725138939" />
+      <file name="D:/projects/mock-server/src/mock/product.js" timestamp="1481203930956">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/utils/request.js" timestamp="1481640807758">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+      </file>
       <file name="D:/tutorials/react/02-modal/src/App.css" timestamp="1480598671486">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/projects/dva-koa-starter/client/index.js" timestamp="1478443463996">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/projects/dva-koa-starter/package.json" timestamp="1478446423132">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="D:/projects/dva/dva-starter/package.json" timestamp="1477808519174">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/store/reducers/cms.js" timestamp="1481637933186">
+        <mark key="'" line="15" column="36" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="37" column="8" />
+      </file>
       <file name="D:/tutorials/react/01-color-ball-manager/package.json" timestamp="1480512528905">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/projects/qf-new-mobile/src/components/DevTools.js" timestamp="1481725561603">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="30" />
+      <file name="D:/projects/qf-new-mobile/src/utils/el-watcher.js" timestamp="1481727228339">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
       </file>
-      <file name="D:/projects/qf-new-mobile/webpack.config.js" timestamp="1481732480667" />
-      <file name="D:/projects/redux-saga/examples/real-world/routes.js" timestamp="1481718983340" />
-      <file name="D:/projects/koa-react-starter/server/main.js" timestamp="1481549414855">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/server/middleware/invariant.js" timestamp="1477718341128">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/server/views/index.html" timestamp="1481731751846">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/projects/redux-saga/examples/real-world/server.js" timestamp="1481728562883" />
-      <file name="D:/projects/qf-new-mobile/src/server/pageScripts.js" timestamp="1481731528251">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="D:/projects/dva/dva-starter/server/middleware/role.js" timestamp="1477760624614">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="D:/projects/qf-new-mobile/src/server/ssr.js" timestamp="1481732648059" />
-      <file name="D:/projects/mock-server/src/mock/product.js" timestamp="1481203930956">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="D:/projects/universal-hmr-ssr-react-redux/src/server/Html.js" timestamp="1481731240411" />
       <file name="D:/projects/dva/dva-starter/client/components/ArticleList.js" timestamp="1478879606525">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="66" column="23" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="D:/projects/redux-saga/examples/real-world/sagas/index.js" timestamp="1481722702051" />
-      <file name="D:/projects/redux-saga/examples/real-world/containers/Root.prod.js" timestamp="1481725131451" />
+      <file name="D:/projects/qf-new-mobile/src/services/cms.js" timestamp="1481726898778">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
       <file name="D:/projects/qf-new-mobile/src/server/Html.js" timestamp="1481732019507">
         <mark key="'" line="47" column="12" />
         <mark key="[" line="18" column="0" />
@@ -226,6 +143,30 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="D:/projects/universal-hmr-ssr-react-redux/package.json" timestamp="1481731119652">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+      </file>
+      <file name="D:/Projects/qf-new-mobile/src/App.js" timestamp="1481708557346">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/components/DevTools.js" timestamp="1481725561603">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="D:/projects/qf-new-mobile/src/components/SearchBar.js" timestamp="1481726842375">
         <mark key="'" line="16" column="23" />
@@ -241,9 +182,32 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/projects/universal-hmr-ssr-react-redux/src/universal/modules/counter/components/Counter/Counter.js" timestamp="1481731389971">
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="48" />
+        <mark key="^" line="36" column="48" />
+        <mark key="." line="36" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481732466488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/koa-react-starter/server/main.js" timestamp="1481549414855">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/projects/dva/dva-starter/client/styles/filter.less" timestamp="1479630312792">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/index.js" timestamp="1481729465123">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="26" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="D:/tutorials/react/00-rainbow/public/index.html" timestamp="1480425429411">
@@ -251,18 +215,34 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/projects/qf-new-mobile/package.json" timestamp="1481730917508">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="D:/projects/dva/dva-starter/server/middleware/invariant.js" timestamp="1477718341128">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/projects/redux-saga/examples/real-world/containers/App.js" timestamp="1481722716612" />
+      <file name="D:/tutorials/react/03-data-request/src/components/Detail.js" timestamp="1480865627503">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/server/index.js" timestamp="1481730948211">
+        <mark key="'" line="75" column="3" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="D:/Projects/qf-new-mobile/src/styles/components/product.less" timestamp="1481709608680">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="21" column="33" />
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
+      </file>
+      <file name="D:/projects/qf-new-mobile/src/server/views/index.html" timestamp="1481731751846">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
