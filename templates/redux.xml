@@ -11,4 +11,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="saga:init" value="import * as types from '../constants/actionTypes';&#10;import { call, put, take, fork } from 'redux-saga/effects';&#10;&#10;$END$&#10;&#10;function *root () {&#10;  while (true) {&#10;    yield take(types.$TYPE_NAME$);&#10;  }&#10;}&#10;&#10;export default function *() {&#10;  yield [&#10;    fork(root)&#10;  ];&#10;}" description="init saga file" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE_NAME" expression="" defaultValue="&quot;UNKOWN_TYPE&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

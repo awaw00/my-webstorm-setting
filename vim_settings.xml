@@ -208,11 +208,12 @@
         <mark key="]" line="2" column="3" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" timestamp="1482112112839">
+      <file name="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" timestamp="1482114147998">
         <mark key="'" line="7" column="19" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="D:/projects/qf-new-mobile/src/styles/variable/layout.less" timestamp="1481206208794">
         <mark key="[" line="2" column="0" />
@@ -434,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>hashHistory</text>
+        <text>ucLifeCircle</text>
       </register>
       <register name="/" type="4">
         <text>showPrice</text>
@@ -446,31 +447,31 @@
         <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aEZhaWx1cmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aFN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c2EK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHRha2UodHlwZXMuVUNfQ0hFQ0tfQVVUSF9TVUNDRVNTKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aGlsZSAodHJ1ZSkgewo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aEZhaWx1cmUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKmF1dGhTdWNjZXNzICgpIHsK</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aFN1Y2Nlc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
