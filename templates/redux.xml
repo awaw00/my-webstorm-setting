@@ -17,4 +17,18 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="reducer:init" value="import * as types from '../constants/actionTypes';&#10;import { fromJS, Map, List } from 'immutable';&#10;&#10;export function $reducerName$ (state = $initialState$, {type, payload}) {&#10;  switch (type) {&#10;    $END$&#10;    default: return state;&#10;  }&#10;}" description="init reducer file" toReformat="false" toShortenFQNames="true">
+    <variable name="reducerName" expression="" defaultValue="&quot;reducerName&quot;" alwaysStopAt="true" />
+    <variable name="initialState" expression="" defaultValue="&quot;''&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rd" value="export function $reducerName$ (state = $initialState$, {type, payload}) {&#10;  switch (type) {&#10;    $END$&#10;    default: return state;&#10;  }&#10;}" description="reducer" toReformat="false" toShortenFQNames="true">
+    <variable name="reducerName" expression="" defaultValue="&quot;reducerName&quot;" alwaysStopAt="true" />
+    <variable name="initialState" expression="" defaultValue="&quot;''&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

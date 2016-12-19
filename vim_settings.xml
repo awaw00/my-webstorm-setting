@@ -220,10 +220,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" timestamp="1482114823950">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
+      <file name="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" timestamp="1482115616282">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Projects/qf-bos/qf-bos-frontend/qf-bos-web/src/main/webapp/WEB-INF/views/promotion/coupon-detail.html" timestamp="1481872894442">
         <mark key="[" line="229" column="98" />
@@ -332,8 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="D:/projects/qf-new-mobile/src/styles/variable/color.less" />
-      <jump line="13" column="19" filename="D:/projects/qf-new-mobile/src/styles/components/cms-product.less" />
       <jump line="11" column="12" filename="D:/projects/qf-new-mobile/src/styles/components/cms-product.less" />
       <jump line="0" column="0" filename="D:/projects/qf-new-mobile/src/styles/components/cms-product.less" />
       <jump line="47" column="22" filename="D:/projects/qf-new-mobile/src/styles/components/cms-product.less" />
@@ -432,10 +431,12 @@
       <jump line="2" column="0" filename="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" />
       <jump line="3" column="0" filename="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" />
       <jump line="7" column="19" filename="D:/Projects/qf-new-mobile/src/universal/sagas/uc.js" />
+      <jump line="13" column="0" filename="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" />
+      <jump line="0" column="0" filename="D:/Projects/qf-new-mobile/src/universal/reducers/cms.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ucLifeCircle</text>
@@ -447,31 +448,31 @@
         <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmV4cG9ydCBmdW5jdGlvbiBsb2FkaW5nIChzdGF0ZSA9IGZhbHNlLCB7dHlwZX0pIHsKICBzd2l0Y2ggKHR5cGUpIHsKICAgIGNhc2UgdHlwZXMuQ01TX0dFVF9QQUdFREFUQV9SRVFVRVNUOgogICAgICByZXR1cm4gdHJ1ZTsKICAgIGNhc2UgdHlwZXMuQ01TX0dFVF9QQUdFREFUQV9TVUNDRVNTOgogICAgY2FzZSB0eXBlcy5DTVNfR0VUX1BBR0VEQVRBX0ZBSUxVUkU6CiAgICAgIHJldHVybiBmYWxzZTsKICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZTsKICB9Cn0KCmV4cG9ydCBmdW5jdGlvbiBjb21wb25lbnRzIChzdGF0ZSA9IExpc3QoKSwge3R5cGUsIHBheWxvYWR9KSB7CiAgc3dpdGNoICh0eXBlKSB7CiAgICBjYXNlIHR5cGVzLkNNU19HRVRfUEFHRURBVEFfU1VDQ0VTUzoKICAgICAgcmV0dXJuIGZyb21KUyhwYXlsb2FkLmNvbXBvbmVudHMpOwogICAgY2FzZSB0eXBlcy5DTVNfU0VUX1BST0RVQ1RTOiB7CiAgICAgIGNvbnN0IHByb2R1Y3RNYXAgPSBmcm9tSlMocGF5bG9hZC5wcm9kdWN0cykucmVkdWNlKChwLCBjKSA9PiB7CiAgICAgICAgcCA9IHAuc2V0KGMuZ2V0KCdpZCcpLCBjKTsKICAgICAgICByZXR1cm4gcDsKICAgICAgfSwgTWFwKCkpOwoKICAgICAgcmV0dXJuIHN0YXRlLm1hcCgoY29tcG9uZW50KSA9PiB7CiAgICAgICAgaWYgKGNvbXBvbmVudC5nZXQoJ2NvbXBUeXBlJykgPT09ICdQUk9EVUNUTUlYJykgewogICAgICAgICAgY29uc3QgY29udGVudHMgPSBjb21wb25lbnQuZ2V0KCdjb250ZW50cycpOwogICAgICAgICAgY29tcG9uZW50ID0gY29tcG9uZW50LnNldCgnY29udGVudHMnLCBjb250ZW50cy5tYXAoKHByb2R1Y3QpID0+IHsKICAgICAgICAgICAgY29uc3QgaWQgPSBwcm9kdWN0LmdldCgnb2JqZWN0SWQnKSB8fCBwcm9kdWN0LmdldCgnaWQnKTsKICAgICAgICAgICAgaWYgKHByb2R1Y3RNYXAuaGFzKGlkKSkgewogICAgICAgICAgICAgIHJldHVybiBwcm9kdWN0TWFwLmdldChpZCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHByb2R1Y3Q7CiAgICAgICAgICB9KSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb21wb25lbnQ7CiAgICAgIH0pOwogICAgfQogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIHN0YXRlOwogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHByZUxvYWRQcm9kdWN0SWRzIChzdGF0ZSA9IExpc3QoKSwge3R5cGUsIHBheWxvYWR9KSB7CiAgc3dpdGNoICh0eXBlKSB7CiAgICBjYXNlIHR5cGVzLkNNU19TRVRfUFJFTE9BRF9JRFM6CiAgICAgIHJldHVybiBzdGF0ZS5jb25jYXQocGF5bG9hZC5pZHMpOwogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIHN0YXRlOwogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHBvc3RMb2FkUHJvZHVjdElkcyAoc3RhdGUgPSBMaXN0KCksIHt0eXBlLCBwYXlsb2FkfSkgewogIHN3aXRjaCAodHlwZSkgewogICAgY2FzZSB0eXBlcy5DTVNfU0VUX1BPU1RMT0FEX0lEUzoKICAgICAgcmV0dXJuIHN0YXRlLmNvbmNhdChwYXlsb2FkLmlkcyk7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGU7CiAgfQp9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc2VydmljZS5nZXRXZWJPQXV0aFVybCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2EK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">c2EK</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aEZhaWx1cmUpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aFN1Y2Nlc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZvcmsoYXV0aEZhaWx1cmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
